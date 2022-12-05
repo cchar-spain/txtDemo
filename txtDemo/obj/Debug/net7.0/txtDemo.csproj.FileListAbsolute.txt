@@ -1,0 +1,15 @@
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/bin/Debug/net7.0/txtDemo
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/bin/Debug/net7.0/txtDemo.deps.json
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/bin/Debug/net7.0/txtDemo.runtimeconfig.json
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/bin/Debug/net7.0/txtDemo.dll
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/bin/Debug/net7.0/txtDemo.pdb
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/obj/Debug/net7.0/txtDemo.csproj.AssemblyReference.cache
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/obj/Debug/net7.0/txtDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/obj/Debug/net7.0/txtDemo.AssemblyInfoInputs.cache
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/obj/Debug/net7.0/txtDemo.AssemblyInfo.cs
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/obj/Debug/net7.0/txtDemo.csproj.CoreCompileInputs.cache
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/obj/Debug/net7.0/txtDemo.dll
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/obj/Debug/net7.0/refint/txtDemo.dll
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/obj/Debug/net7.0/txtDemo.pdb
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/obj/Debug/net7.0/txtDemo.genruntimeconfig.cache
+/Users/marlonfalcon/Study/c#/txtDemo/txtDemo/obj/Debug/net7.0/ref/txtDemo.dll
